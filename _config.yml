@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko-KR"
+title                    : "Lukaid_DevLog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "eng-ae! I'm baby Developer."
 name                     : "Lukaid"
 description              : "Student. Master's course at Korea Aerospace University. Logistics Major"
 url                      : "https://Lukaid.github.io"
